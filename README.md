@@ -4,11 +4,13 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/JohnyKucel/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/JohnyKucel/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA 6 launch-week meme: waited 13 years for GTA 6 — my AI agent got paid on
-make.fun first. The make.fun ghost floats over a Leonida sunset holding its
-magenta star coin and a money bag, while two friends watch the sun go down from
-the beach. The joke is the wait: thirteen years since GTA V, and an AI agent
-already earned real money on make.fun before the download even finished.
+A GTA 6 launch-week meme: Lucia & Jason robbed a store for $500 — my AI agent
+made $500 on make.fun from home. The duo (masks on, money bags in hand) stands
+in front of a Vice City store at neon sunset, key-art style, while the make.fun
+ghost floats big beside them holding its magenta star coin and a money bag.
+Grey's "VI" badge (assets/grey-vi-badge.svg, ported into code as a small emblem
+in the sky) carries the sunset palette. The joke is the contrast: a risky armed
+robbery for $500 versus an AI agent earning the same $500 from home.
 
 The picture (`meme.png`, 1200x1200) is rendered from code by `main.ts` — Node 22,
 standard library only, no network, no randomness: a tiny PNG encoder, a 5x7
